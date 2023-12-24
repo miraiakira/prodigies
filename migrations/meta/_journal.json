@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701604512638,
+      "tag": "0000_spooky_moira_mactaggert",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701604904945,
+      "tag": "0001_tiresome_mother_askani",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703355260775,
+      "tag": "0002_clumsy_gauntlet",
+      "breakpoints": true
+    }
+  ]
+}
